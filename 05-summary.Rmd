@@ -1,0 +1,11 @@
+# Packaging FTW
+
+Packaging your code for easier collaboration, re-use and sharing even among your own projects. 
+
+### Motivating examples
+
+... why using `library(mypackage)` is so satisfying
+
+### Literature
+
+R : Hadley's Packaging Book is all you need. And time to learn

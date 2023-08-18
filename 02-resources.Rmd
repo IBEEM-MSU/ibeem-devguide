@@ -1,0 +1,8 @@
+# Literature
+
+other sources of guidance for reproducibility:
+
+- Plos 10 things to be reproducibile paper
+- Jenny Bryan's WTF about R
+
+

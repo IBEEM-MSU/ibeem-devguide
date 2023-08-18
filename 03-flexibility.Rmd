@@ -1,0 +1,8 @@
+# Flexibility 
+
+How to design your programs and techniques to run in different 
+environments, contexts and with different data
+
+
+## use relative paths
+## Using command line Arguments

@@ -1,0 +1,19 @@
+# Managing Packages and Dependencies across project
+
+
+## the problem(s)
+
+Your many projects may require different packages, and different versions of packages.
+R packages on have base software that needs to be installed.  For example geospatial packages almost always requires the GDAL C++ library to be installed on your system. 
+
+Sometimes some packages are not updated, and then require older version 
+You may have a project you are sharing that needs packages: how to communicate those 
+
+This has been a problem in Python for a long time, and the solution is to create a 'virtual environment'   
+
+### using `renv`
+
+
+
+
+

@@ -1,0 +1,7 @@
+# Introduction {#intro}
+
+This guide is for current pracitioners and programmers of ecological
+science/research who want to improve the way they create and share their code. 
+
+This is focused but not limited to R.
+

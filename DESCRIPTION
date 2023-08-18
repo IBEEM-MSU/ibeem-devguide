@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: Programming techniques for biodiversity, ecology, evolution, and macrosystems science.
+Version: 0.0.1
+Imports: bookdown
+Remotes: IBEEM-MSU/ibeem-devguide
