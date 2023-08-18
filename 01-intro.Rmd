@@ -1,7 +1,12 @@
 # Introduction {#intro}
 
-This guide is for current pracitioners and programmers of ecological
+*This is in very very early stages and not much is here yet*
+
+This guide is for current practitioners and programmers of computational biodiversity, ecology, evolution, and macrosystems 
 science/research who want to improve the way they create and share their code. 
 
-This is focused but not limited to R.
+This is focused on, but not limited to the R System for Statistics. 
+
+Each chapter covers a technique borrowed from software engineering that could be applied to your code, with motivation for why you'd need it, what problem is being solved, the outcome and alternatives (if any). 
+
 
