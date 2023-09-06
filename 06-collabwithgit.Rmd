@@ -1,0 +1,23 @@
+# Collaboration with git and github
+
+There are many great tutorials on Git so we won't repeat those.  Tis is one from Rstudio
+
+[An introduction to Git and how to use it with RStudio](http://r-bio.github.io/intro-git-rstudio) from 
+## git is a communication tool
+
+[Git with RStudio: Order Matters!](https://sites.northwestern.edu/researchcomputing/2022/05/11/git-with-rstudio-order-matters/) Posted May 11, 2022 by Christina Maimone of Northwestern IT Research Computing and Data Services
+
+
+
+
+
+## Branching
+
+**Why Branch?**
+
+
+This is a great tutorial on branching: 
+
+[Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) from Atlassian
+
+
