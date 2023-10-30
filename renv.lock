@@ -31,7 +31,7 @@
     },
     "bookdown": {
       "Package": "bookdown",
-      "Version": "0.35",
+      "Version": "0.36",
       "Source": "Repository",
       "Repository": "RSPM",
       "Requirements": [
@@ -44,7 +44,7 @@
         "xfun",
         "yaml"
       ],
-      "Hash": "c6ff1e408f5f241cbcedc0ae28711163"
+      "Hash": "ad8c9846c4aaa18381781a37271e7f40"
     },
     "bslib": {
       "Package": "bslib",

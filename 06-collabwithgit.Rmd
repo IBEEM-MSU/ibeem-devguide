@@ -1,6 +1,6 @@
 # Collaboration with git and github
 
-There are many great tutorials on Git so we won't repeat those.  Tis is one from Rstudio
+There are many great tutorials on Git so we won't repeat those.  This is one from Rstudio:
 
 [An introduction to Git and how to use it with RStudio](http://r-bio.github.io/intro-git-rstudio) from 
 ## git is a communication tool
@@ -8,7 +8,15 @@ There are many great tutorials on Git so we won't repeat those.  Tis is one from
 [Git with RStudio: Order Matters!](https://sites.northwestern.edu/researchcomputing/2022/05/11/git-with-rstudio-order-matters/) Posted May 11, 2022 by Christina Maimone of Northwestern IT Research Computing and Data Services
 
 
+The following are some tips and suggestions after you have an understanding of how git works.  
 
+## keep stuff out of git that doesn't belong
+
+See the sections in the tutorial above on `.gitignore` file.  This file is crucially important for keeping configuration (see chapter on configuration) that's just for you - especially secrets - and also outputs and binary files.   
+
+#### starting point
+
+Rstudio git projects start with a gitignore file but we frequently have to make one.  there is a great resource for cp,,pm gotofmpre starter files, including for R.  https://github.com/github/gitignore
 
 
 ## Branching

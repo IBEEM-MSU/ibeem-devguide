@@ -1,0 +1,13 @@
+# Motivation and Introduction {#intro}
+
+
+Reproducibility is a hallmark of science and in 2016 the paper [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) from Nature made it clear there was a problem.   One of the main tools to address this problem is software and specifically software design.   Being transparent by publishing anbd documenting the code you use to produce results goes a very long way, but it's not quite enough.   It allows others to see how you got there, but doesn't allow them to go there on their own. 
+
+Reproducibily is a major tenet of software engineering practice.   Collaborators must be able to unequivocally reproduce a development environment in order to test the execution of changes to a code base.    Software engineers crave efficiency and attempt to be able to reuse components to reduce writing additional code that must be debugged.   These and other principles lead to design principles in software that could go a long way to ensure reproducibilty in data-intensive research.  
+
+
+**References:** 
+
+[1,500 scientists lift the lid on reproducibility, Monya Baker, Nature volume 533, pages 452–454 (2016)](https://www.nature.com/articles/533452a)
+
+
