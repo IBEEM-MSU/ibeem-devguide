@@ -1,0 +1,16 @@
+introduction
+intro
+resources
+flexibility
+use-relative-paths
+using-command-line-arguments
+managing-packages-and-dependencies-across-project
+the-problems
+using-renv
+packaging-ftw
+motivating-examples
+literature
+collaboration-with-git-and-github
+keep-stuff-out-of-git-that-doesnt-belong
+starting-point
+branching
